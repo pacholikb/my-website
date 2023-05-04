@@ -28,7 +28,6 @@ Light color scheme has to be defined using the css selector `:root` and `html[da
 ![lobster-color-scheme](https://user-images.githubusercontent.com/53733092/192282447-1d222faf-a3ce-44a9-9cfe-ac873155e5a9.png)
 
 ```css
-:root,
 html[data-theme="light"] {
   --color-fill: 246, 238, 225;
   --color-text-base: 1, 44, 86;
@@ -44,7 +43,6 @@ html[data-theme="light"] {
 ![leaf-blue-color-scheme](https://user-images.githubusercontent.com/53733092/192318782-e80e3c39-54b5-423e-8f4b-9ae60402fc8d.png)
 
 ```css
-:root,
 html[data-theme="light"] {
   --color-fill: 242, 245, 236;
   --color-text-base: 53, 53, 56;
@@ -60,7 +58,6 @@ html[data-theme="light"] {
 ![pinky-color-scheme](https://user-images.githubusercontent.com/53733092/192286510-892d0042-2d6d-471e-bb72-954221ae2d17.png)
 
 ```css
-:root,
 html[data-theme="light"] {
   --color-fill: 250, 252, 252;
   --color-text-base: 34, 46, 54;
